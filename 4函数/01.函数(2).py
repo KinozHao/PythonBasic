@@ -20,7 +20,7 @@ def demo1(name,age=17):
     print("Age:",age)
 
 demo1(name="KinozHao")
-demo1("郝国斌",20)
+demo1("autor",20)
 print("="*30)
 # 注意 带有默认值的参数一定要位于参数列表的最后
 
