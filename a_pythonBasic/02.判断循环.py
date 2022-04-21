@@ -56,4 +56,3 @@ elif SAX == "GIRL":     #女生判断的部分
         print("PUBG")
 else:
     print("学霸")
-    

@@ -26,12 +26,12 @@ while i<=5:
 # 99乘法表
 
 i = 1
-while i<=9:
+while i <= 9:
     j = 1
-    while j<=i:
+    while j <= i:
         # print("*",end="")
         sum = i*j         # sum用来存放两个数相乘的值
-        print("%d*%d = %d"%(i,j,sum),end=" ")     # 每一个%d代表一个值 类似于C语言
-        j+=1
+        print("%d*%d = %d"%(i,j,sum),end=' ')     # 每一个%d代表一个值 类似于C语言
+        j += 1
     print(" ")
-    i+=1
+    i += 1
